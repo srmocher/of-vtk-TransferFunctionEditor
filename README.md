@@ -5,7 +5,7 @@ An interactive 2D transfer function editor using openframeworks and VTK
 * Log-scaled histograms for scalar values and gradient magnitudes to vary opacity
 * 5 different colormaps to choose from
 * Add/remove/drag control points on all widgets
-* ,vti files supported
+* .vti files supported
 
 
 ## Build steps
